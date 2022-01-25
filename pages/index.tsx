@@ -24,16 +24,6 @@ export default function Home() {
                     sekta.dev
                 </h1>
             </main>
-
-            <footer className={styles.footer}>
-                <a
-                    href="https://unit4.io"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    design::unit
-                </a>
-            </footer>
         </div>
     )
 }
